@@ -1,16 +1,3 @@
-# Interactive-Front-End-Application
+# Weather Dashboard
 
-I used CSS and Bootstrap.
-
-IS interactive accepts and respond to user input.
-
-Use at least two server-side APIs.
-
-Use modals.
-
-Has client-side storage to store persistent data.
-
-Is responsive.
-
-Has a polished UI.
-
+The purpose of this dashboard is to take third party current weather api's and making a website that shows the 5 day forecast 
