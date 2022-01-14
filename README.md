@@ -1,16 +1,5 @@
-# Interactive-Front-End-Application
+# Weather Dashboard
 
-I used CSS and Bootstrap.
+The purpose of this dashboard is to fetch third party current weather api's make a website that renders the current weather temperature and 5 day forecast. Entering the city inside of the seach bar.
 
-IS interactive accepts and respond to user input.
-
-Use at least two server-side APIs.
-
-Use modals.
-
-Has client-side storage to store persistent data.
-
-Is responsive.
-
-Has a polished UI.
-
+.The main programming languages are HTML,BOOTSTRAP,CSS,JAVASCRIPT.
